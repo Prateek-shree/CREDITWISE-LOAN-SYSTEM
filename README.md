@@ -157,12 +157,6 @@ The EDA phase helped identify:
 
 ---
 
-## Correlation Heatmap
-
-![Correlation Heatmap](graph.png)
-
----
-
 ## 4. Data Cleaning
 
 The unnecessary feature:
@@ -401,7 +395,6 @@ CREDITWISE-LOAN-SYSTEM/
 │
 ├── credit_wise.ipynb
 ├── loan_approval_data.csv
-├── graph.png
 ├── README.md
 ```
 
